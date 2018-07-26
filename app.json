@@ -1,0 +1,6 @@
+{
+  "name": "linkies-web",
+  "description": "linkies.io",
+  "repository": "https://github.com/iancharters/linkies-web",
+  "image": "heroku/nodejs"
+}
